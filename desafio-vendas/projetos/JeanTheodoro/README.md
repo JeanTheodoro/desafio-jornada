@@ -4,7 +4,8 @@ autor: "Jean Theodoro"
 usuario: "JeanTheodoro"
 dominio: "Agente conversacional para venda de bebidas"
 repositorio: "https://github.com/JeanTheodoro/beverage-sales-agent"
-
+linkedin: https://lnkd.in/p/dEfyxuay
+plataforma: https://suajornadadedados.curseduca.pro/m/community/posts/6add0f78-4f2b-4d37-9875-33f325c1a7d2
 documentação: https://jeantheodoro.github.io/doc_agent_delivery/
 video de demostração: https://youtu.be/sGfyWscHNbg
 ---
